@@ -10,11 +10,14 @@ namespace project
     {
         static void Main(string[] args)
         {
+//<<<<<<< HEAD
             //prohject kkkk sfdsfsff
-            //test 2
-            //test3
-            ///test4
-            /////yest5
+            
+//=======
+            //prohject kkkk sfdsfsffs
+            Console.WriteLine("Testing");
+
+//>>>>>>> 52abfc281766b5d87f7879386b21f0750568b534
         }
     }
 }
