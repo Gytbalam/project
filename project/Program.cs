@@ -11,6 +11,8 @@ namespace project
         static void Main(string[] args)
         {
             //prohject kkkk sfdsfsffs
+            Console.WriteLine("Testing");
+
         }
     }
 }
